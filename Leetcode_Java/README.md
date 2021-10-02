@@ -1,4 +1,4 @@
-# Leetcode_Java@Rajeev Ranjan
+# Rupchand Dewangan
 # Solution@Leetcode
 
 ## Links:
